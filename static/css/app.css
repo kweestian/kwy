@@ -484,3 +484,11 @@ input[type=checkbox] {
 .cart-product__image {
 	height: 60px;
 }
+
+.paragraph-text {
+	font-size: 20px;
+}
+
+.text-large {
+	font-size: 25px;
+}
