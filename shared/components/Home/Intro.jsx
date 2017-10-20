@@ -6,7 +6,7 @@ function Intro (props, context) {
 
   return (
   <div>
-    <header className="image-bg-fluid-height">
+    <header className="animated fadeIn image-bg-fluid-height">
     </header>
 
     <section>

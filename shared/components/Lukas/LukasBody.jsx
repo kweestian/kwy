@@ -17,7 +17,7 @@ class LukasBody extends Component {
         <div className="row">
           <div className="col-lg-8 col-lg-offset-2">
             <h2>How We've Helped</h2>
-            <img src="/img/lukas_studly.jpg" className="lukas-container__image"  />
+            <img src="/img/lukas_studly.jpg" className="animated fadeIn lukas-container__image"  />
               <div className="paragraph-text">
                 <p>
                   With considerable sadness we advise that Lukas Oelke breathed his last in the early afternoon of September 5th, 2016. Lukas was incredible to the end, showing his love and acknowledging his family and friends with claps of his hands and gestures of thumbs up.

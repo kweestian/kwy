@@ -3,7 +3,7 @@ import { Link } from 'react-router';
 
 function Team (props, context) {
   return (
-    <section id="speakers">
+    <section className="animated fadeIn" id="speakers">
 		<h3>The Dream Team</h3>
 		<div className="separator"></div>
 		<div className="container">

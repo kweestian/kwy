@@ -13,7 +13,7 @@ class AaronBody extends Component {
         <div className="row">
           <div className="col-lg-8 col-lg-offset-2">
             <h2> The Lukas Legacy & The Aaron Project</h2>
-            <img src="/img/aaron-profile.jpg" className="lukas-container__image"  />
+            <img src="/img/aaron-profile.jpg" className="animated fadeIn lukas-container__image"  />
             <div className="paragraph-text">
               <p>It is with a heavy heart that we announce the peaceful passing of Aaron Konkin on September 16th, 2017 surrounded by his friends and family. </p>
 

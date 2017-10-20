@@ -53,6 +53,10 @@ import serverConfig from './config';
 import passport from './passport';
 
 // MongoDB Connection
+
+// https://github.com/Automattic/mongoose/issues/4291
+mongoose.Promise = global.Promise;
+
 mongoose.connect(serverConfig.mongoURL, (error) => {
   if (error) {
     console.log(serverConfig.mongoURL);
